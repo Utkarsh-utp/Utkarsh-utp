@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Utkarsh-utp
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning computer science
-- 💞️ I’m still learing
+- 💞️ I’m still leanring
 - 📫 How to reach me Utkarshpandey@gmail.com
 
 <!---
